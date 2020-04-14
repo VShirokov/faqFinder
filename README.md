@@ -13,3 +13,5 @@ faqFinder for JekaTiger
         answer: 'Ответ 2',
     }
 ]
+
+Демо - https://vshirokov.github.io/faqFinder/
